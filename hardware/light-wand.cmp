@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-05 BZR 5054)-product   date = Wed 12 Nov 2014 00:22:47 EST
+
+BeginCmp
+TimeStamp = /544D25B5;
+Reference = C1;
+ValeurCmp = 27pF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D32D6;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D3334;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D3368;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D339D;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D55F1;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D33CF;
+Reference = C7;
+ValeurCmp = 2.2uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D25F3;
+Reference = C8;
+ValeurCmp = 27pF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D5FA3;
+Reference = C9;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D5E74;
+Reference = C10;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D3C63;
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C5AA3;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = footprints:1935174;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D14B3;
+Reference = P1;
+ValeurCmp = TC2030-CTX;
+IdModule  = footprints:TC2030-NL_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5462F017;
+Reference = R1;
+ValeurCmp = 68;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D2CA8;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = footprints:D6_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D2D5B;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = footprints:D6_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D2D8F;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = footprints:D6_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D2DC4;
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = footprints:D6_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /544CF54B;
+Reference = U1;
+ValeurCmp = MK20DX256VLH7;
+IdModule  = QFP:LQFP-64_10x10mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D57A0;
+Reference = U2;
+ValeurCmp = MIC5504;
+IdModule  = SMD_Packages:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D6779;
+Reference = U3;
+ValeurCmp = SN74LVC1T45;
+IdModule  = Transistors_SMD:sc70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C67AE;
+Reference = U4;
+ValeurCmp = MICROSD_SOCKET;
+IdModule  = footprints:DM3BT;
+EndCmp
+
+BeginCmp
+TimeStamp = /544D0E07;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = Crystals:Crystal_HC49-SD_SMD;
+EndCmp
+
+EndListe

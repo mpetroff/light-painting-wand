@@ -1,0 +1,14 @@
+Part                Qty     Manufacturer        Manufacturer #          Mouser #
+
+Micro SD socket     1       Hirose Electric     DM3BT-DSF-PEJS          798-DM3BT-DSF-PEJS
+16 MHz crystal      1       ABRACON             ABLS-16.000MHZ-B4-T     815-ABLS-16.0M-T
+Voltage regulator   1       Micrel              MIC5504-3.3YM5 TR       998-MIC5504-3.3YM5TR
+Level translator    1       Texas Instruments   SN74LVC1T45QDCKRQ1      595-74LVC1T45QDCKRQ1
+1uF capacitor       2       Murata              GRM188R61E105KA12D      81-GRM188R61E105KA12
+27pF capacitor      2       Vishay              VJ0603A270JXACW1BC      77-VJ0603A270JXACBC
+2.2uF capacitor     1       Taiyo Yuden         JMK107BJ225KAHT         963-JMK107BJ225KAHT
+0.1uF capacitor     6       Vishay              VJ0603Y104JXQCW1BC      77-VJ0603Y104JXQCBC
+Microcontroller     1       Freescale Semi.     MK20DX256VLH7           841-MK20DX256VLH7
+Switch              4       C&K Components      D6C30 F1 LFS            611-D6C30F1LFS
+Terminal block      1       Phoenix Contact     1935174                 651-1935174
+68 ohm resistor     1       Vishay              CRCW060368R0FKEA        71-CRCW0603-68-E3
